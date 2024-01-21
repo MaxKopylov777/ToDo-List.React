@@ -1,0 +1,27 @@
+.Add-todo {
+    color:white;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bold;
+    width: 150px;
+    height: 70px;
+    background-color: #ff6666;
+    border:0.5px solid #fff;
+}
+
+.Add-todo:hover {
+    cursor:pointer;
+    background-color:#ff5e5e;
+    
+
+}
+
+.Input {
+    width: 60%;
+    margin: 30px 10px;
+    height: 50px;
+    font-size: 25px;
+    color:grey;
+    padding: 10px;
+    border: none;
+}

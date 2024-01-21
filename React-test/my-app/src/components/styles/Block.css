@@ -1,0 +1,86 @@
+
+.Block1-color {
+    background-color:turquoise;
+}
+
+.Block2-color {
+background-color:bisque;
+}
+
+.Inner-block {
+    width: 500px;
+    height: 500px;
+    background-color:skyblue;
+    border: 1px solid gray;
+}
+.Inner-block2 {
+    width: 500px;
+    height: 500px;
+    background-color:skyblue;
+    border: 1px solid gray;
+}
+.Btn-add {
+    padding: 10px;
+    border:none;
+    font-size: 15px;
+    color:antiquewhite;
+    background-color:cadetblue;
+}
+.Btn-off {
+    padding: 10px;
+    margin: 20px;
+    font-size: 20px;
+    background-color: cornflowerblue;
+    color:antiquewhite;
+    border:none;
+    border-radius: 10px;
+}
+.Btn-off:hover{
+    cursor:pointer;
+    background-color:blueviolet;
+}
+
+.Btn-add1 {
+    padding: 10px;
+    border:none;
+    font-size: 15px;
+    color:antiquewhite;
+    background-color:cadetblue;
+}
+.Btn-off1 {
+    padding: 10px;
+    margin: 20px;
+    font-size: 20px;
+    background-color: cornflowerblue;
+    color:antiquewhite;
+    border:none;
+    border-radius: 10px;
+}
+.Btn-off1:hover{
+    cursor:pointer;
+    background-color:blueviolet;
+}
+.CatsInfoContainer{
+    width: 250px;
+    height: 250px;
+    background-color: tan;
+}
+.MaxInfoContainer{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(153, 138, 118);
+}
+.Country{
+    width: 150px;
+    background-color:violet;
+    margin-top: 5px;
+    color:aliceblue;
+    font-size: 20px;
+}
+.Continent {
+    width: 150px;
+    background-color:rgb(16, 13, 36);
+    margin-top: 5px;
+    color:rgb(95, 221, 10);
+    font-size: 20px;
+}
